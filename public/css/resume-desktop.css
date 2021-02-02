@@ -1,0 +1,108 @@
+@media (min-width: 801px) {
+    .resume-container {
+        font-family: "helvetica";
+        background: #f7f7f7;
+        color: #333;
+    }
+
+    .resume-content {
+        height: 100vh;
+    }
+
+    .rb2 img {
+        width: 500px;
+        height: 500px;
+        border: 5px solid #ffff;
+        padding: 10px;
+    }
+    .basicinfo-wrapper {
+        padding: 20px;
+        display: flex;
+        flex: 1 0 auto;
+        background: #ffff;
+        box-sizing: border-box;
+        padding: 50px;
+    }
+    .primariin table i {
+        width: 40px;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 22px;
+        color: #d87333;
+    }
+
+    .primariin table span {
+        display: block;
+        padding: 16px;
+        font-size: 16px;
+        color: #333;
+    }
+
+    .basicinfo-name-wrapper {
+        padding: 20px;
+    }
+    .basicinfo-name-wrapper table span {
+        padding: 5px;
+        color: #333;
+        display: block;
+        text-align: left;
+    }
+
+    .basicinfo-name-wrapper table p {
+        margin: 0;
+        font-weight: 500;
+        font-size: 16px;
+    }
+    .basicinfo-name-wrapper div {
+        font-size: 18px;
+    }
+    .basicinfo-name-wrapper h4 {
+        margin-bottom: 10px;
+        display: inline-block;
+        font-size: 26px;
+        text-transform: capitalize;
+        color: #323d43;
+        border-bottom: 5px solid #323d43;
+    }
+
+    .resume-box {
+        margin-bottom: 2px;
+        padding: 20px;
+        font-size: 16px;
+        font-family: "helvetica";
+        line-height: 1.3;
+        padding: 50px;
+    }
+
+    .resume-box h3 {
+        display: inline-block;
+        margin-bottom: 10px;
+        font-size: 26px;
+        text-transform: capitalize;
+        color: #323d43;
+        border-bottom: 5px solid #323d43;
+        width: 300px;
+        text-align: center;
+    }
+
+    .resume-box ul {
+        list-style-type: none;
+    }
+    .resume-box ul li {
+        padding: 5px;
+    }
+    .resume-box p {
+        text-align: justify-all;
+        margin-top: 12px;
+        max-width: 400px;
+    }
+    .resume-box td {
+        padding: 3px 5px;
+    }
+    .cureent {
+        padding: 20px;
+        text-align: center;
+    }
+}
