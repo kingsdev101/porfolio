@@ -68,7 +68,7 @@
                     <div class="wrap-text-image">
                         <div class="service-front-end"><span>FRONT-END</span></div>
                         <div class="div-laptop-wrapper">
-                            <img src="{{asset('storage/images/clipart2429949.png') }}" alt="laptop"
+                            <img src="{{asset('storage/images/clipart2429949.PNG') }}" alt="laptop"
                                 class="service-image laptop">
                         </div>
                     </div>
@@ -89,7 +89,7 @@
                             <span>BACK-END</span>
                         </div>
                         <div class="sevice-cload-image-wrapper">
-                            <img src="{{ asset('storage/images/clipart402381.png') }}" alt="laptop"
+                            <img src="{{ asset('storage/images/clipart402381.PNG') }}" alt="laptop"
                                 class="service-image laptop">
                         </div>
                     </div>
@@ -117,18 +117,18 @@
         </div>
         <div class="img-section-wrapper">
             <div class="language-images">
-                <img src="https://www.mediafire.com/view/nailhru34gkab82/IMG20201229155251.jpg" alt="php">
+                <img src="https://www.mediafire.com/view/nailhru34gkab82/IMG20201229155251.JPG" alt="php">
                 <img src="{{ asset('storage/images/html.png') }}" alt="php">
-                <img src="{{ asset('storage/images/kisspng-web-development-php-programmer-programming-languag-vs-5ac244e306bbd7.9685117315226810590276.png') }}"
+                <img src="{{ asset('storage/images/kisspng-web-development-php-programmer-programming-languag-vs-5ac244e306bbd7.9685117315226810590276.PNG') }}"
                     alt="php">
                 <img src="{{ asset('storage/images/css.png') }}" alt="php">
-                <img src="{{ asset('storage/images/kisspng-web-development-laravel-web-framework-software-fra-1-5abaf3df944935.5441551415222015676074.png') }}"
+                <img src="{{ asset('storage/images/kisspng-web-development-laravel-web-framework-software-fra-1-5abaf3df944935.5441551415222015676074.PNG') }}"
                     alt="php">
-                <img src="{{ asset('storage/images/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece9df699.271102961522446030647.png') }}"
+                <img src="{{ asset('storage/images/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece9df699.271102961522446030647.PNG') }}"
                     alt="php">
-                <img src="{{ asset('storage/images/kisspng-jquery-octos-global-javascript-library-document-ob-hit-health-co-نقطه-چین-5b663ce777cf01.0749422515334269194908.png') }}"
+                <img src="{{ asset('storage/images/kisspng-jquery-octos-global-javascript-library-document-ob-hit-health-co-نقطه-چین-5b663ce777cf01.0749422515334269194908.PNG') }}"
                     alt="jquery">
-                <img src="{{ asset('storage/images/kisspng-java-programming-programming-language-computer-pro-5ada6652a40c24.352582881524262482672.png') }}"
+                <img src="{{ asset('storage/images/kisspng-java-programming-programming-language-computer-pro-5ada6652a40c24.352582881524262482672.PNG') }}"
                     alt="jquery">
             </div>
         </div>
@@ -147,7 +147,7 @@
         </div>
     </div>
     <div class="section3-image-wrapper">
-        <img src="{{ asset('storage/images/kisspng-programmer-computer-programming-laptop-professiona-architectural-engineer-vector-material-5ad9edb20c2c80.8903493415242316020499.png')}}"
+        <img src="{{ asset('storage/images/kisspng-programmer-computer-programming-laptop-professiona-architectural-engineer-vector-material-5ad9edb20c2c80.8903493415242316020499.PNG')}}"
             alt="student programm">
     </div>
     <div class="see-all-wrapper"><a href="{{route('projects')}}">SEE ALL</a></div>
