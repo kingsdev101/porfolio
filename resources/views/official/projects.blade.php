@@ -5,7 +5,7 @@
 <div class="projects-container">
     <h2>Projects</h1>
         <div class="list-projects">
-   
+        @if($project->count() > 0)
         @foreach($project as $projects)
 
 <div class="projectac">
@@ -33,10 +33,10 @@
 
 </div>
 @endforeach
-   
+    @else
     <div style="padding:20px;text-align:center">
     <h1>No Record</h1></div>
-   
+    @endif
 
         </div>
 
