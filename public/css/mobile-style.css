@@ -575,21 +575,7 @@
     /*/fromnt*/
 
     .binary {
-        position: absolute;
-        font-family: "Agency FB";
-
-        right: 35vw;
-        top: 2%;
-        padding: 10px;
-        color: #fefefe;
-        background: #282828;
-        font-size: 16px;
-        text-align: center;
-        letter-spacing: 2px;
-        word-spacing: 5px;
-        border-radius: 1px;
-        border: 1px solid #f75901;
-        z-index: 1000;
+display: none;
     }
 
     .binary img {
