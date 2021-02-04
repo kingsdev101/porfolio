@@ -117,7 +117,7 @@
         </div>
         <div class="img-section-wrapper">
             <div class="language-images">
-                <img src="{{ asset('storage/images/javascript.png')}}" alt="php">
+                <img src="https://www.mediafire.com/view/nailhru34gkab82/IMG20201229155251.jpg" alt="php">
                 <img src="{{ asset('storage/images/html.png') }}" alt="php">
                 <img src="{{ asset('storage/images/kisspng-web-development-php-programmer-programming-languag-vs-5ac244e306bbd7.9685117315226810590276.png') }}"
                     alt="php">
