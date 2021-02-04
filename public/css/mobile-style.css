@@ -385,12 +385,13 @@
     .service-content p {
         font-family: "Source Sans Pro";
         color: #fefefe;
-    }
+     }
     .service-back-end-wrapper p {
         font-size: 16px;
         line-height: 1.2;
         text-align: justify-all;
         font-weight: 300;
+
     }
     .service-back-end-wrapper {
         margin-top: 3em;
@@ -502,7 +503,7 @@
     /*section2*/
     .back-end-text span {
         position: relative;
-        top: 50%;
+        top: 30%;
         display: block;
         left: 18%;
         color: #f75901;
@@ -512,6 +513,7 @@
     .sevice-cload-image-wrapper {
         width: 100%;
         position: relative;
+        top:-15px;
     }
     .back-end-text {
         position: relative;
@@ -540,6 +542,7 @@
         left: 5%;
         width: 149px;
         height: 72px;
+
     }
     .service-front-end,
     .div-laptop-wrapper {
@@ -548,10 +551,9 @@
     }
     .service-front-end span {
         display: block;
-        position: relative;
-        top: 0;
+         position: relative;
+        top: -10px;
         color: #f75901;
-
         font-weight: 500;
     }
     .wrap-text-image {

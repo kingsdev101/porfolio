@@ -36,8 +36,8 @@
     <div class="menu-container" id="menu-container">
         <div class="menu-wrapper" id="menu-wrapper">
 
-            <div class="seedico">
-
+            <div class="seedico" style="color:#ffff;font-family:'helvetica';text-tr " >
+                    <i class="fa fa-dragon" style="color: #f75901; font-size:28px"></i> Think & Create
             </div>
             <div class="line-wrapper" id="line-wrapper">
                 <div class="line ln1"></div>
