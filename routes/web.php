@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
+use App\Http\Controllers\OfficialController;
 use App\User;
 use App\Role;
 /*
@@ -20,7 +21,7 @@ use App\Role;
  });
  Route::get('/home', 'OfficialController@index')->name('home');
  Route::get('/resume', 'OfficialController@resume')->name('resume');
- Route::get('/projects', 'officialController@projects')->name('projects'); 
+ Route::get('/projects', [OfficialController::class, 'projects'])->name('projects'); 
  Route::get('/insertproject', 'officialController@insertproject')->name('insertproject'); 
  Route::post('/saveproject', 'officialController@saveproject')->name('saveproject'); 
 
