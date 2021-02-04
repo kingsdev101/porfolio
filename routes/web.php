@@ -22,8 +22,8 @@ use App\Role;
  Route::get('/home', 'OfficialController@index')->name('home');
  Route::get('/resume', 'OfficialController@resume')->name('resume');
  Route::get('/projects', [OfficialController::class, 'projects'])->name('projects'); 
- Route::get('/insertproject', 'officialController@insertproject')->name('insertproject'); 
- Route::post('/saveproject', 'officialController@saveproject')->name('saveproject'); 
+ Route::get('/insertproject', [OfficialController::class, 'insertproject'])->name('insertproject'); 
+ Route::post('/saveproject', [OfficialController::class, 'saveproject'])->name('saveproject'); 
 
 
 Auth::routes();
