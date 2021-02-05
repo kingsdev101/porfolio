@@ -68,7 +68,7 @@
                     <div class="wrap-text-image">
                         <div class="service-front-end"><span>FRONT-END</span></div>
                         <div class="div-laptop-wrapper">
-                            <img src="{{asset('storage/images/clipart2429949.PNG') }}" alt="laptop"
+                            <img src="{{asset('storage/clipart2429949.png') }}" alt="laptop"
                                 class="service-image laptop">
                         </div>
                     </div>
