@@ -21,6 +21,7 @@ class CreateProjectsTable extends Migration
             $table->text('features');
             $table->text('language');
             $table->text('links');
+            $table->integer('visitable');
             $table->timestamps();
         });
     }

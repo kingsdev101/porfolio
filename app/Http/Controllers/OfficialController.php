@@ -27,6 +27,7 @@ class OfficialController extends Controller
         $project->features = $request->feature;
         $project->language = $request->language;
         $project->links = $request->link;
+        $project->visitable = $request->visitable;
         $project->save();
 
          return redirect()->route('insertproject');

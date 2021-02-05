@@ -8,6 +8,7 @@
     <input type="text" placeholder="feature" name="feature"><br>
     <input type="text" placeholder="language" name="language"><br>
     <input type="text" placeholder="link" name="link"><br>
+    <input type="text" placeholder="1/0 visitable" name="visitable"><br>
 
     <button type="submit" name="submit">Save</button>
 </form>
