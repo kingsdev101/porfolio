@@ -89,7 +89,7 @@
                             <span>BACK-END</span>
                         </div>
                         <div class="sevice-cload-image-wrapper">
-                            <img src="{{ asset('storage/images/clipart402381.PNG') }}" alt="laptop"
+                            <img src="{{ asset('storage/clipart402381.PNG') }}" alt="laptop"
                                 class="service-image laptop">
                         </div>
                     </div>
@@ -119,17 +119,20 @@
             <div class="language-images">
                 <img src="https://www.mediafire.com/view/nailhru34gkab82/IMG20201229155251.JPG" alt="php">
                 <img src="{{ asset('storage/images/html.png') }}" alt="php">
-                <img src="{{ asset('storage/images/kisspng-web-development-php-programmer-programming-languag-vs-5ac244e306bbd7.9685117315226810590276.PNG') }}"
+                <img src="{{ asset('storage/php.png') }}"
                     alt="php">
-                <img src="{{ asset('storage/images/css.png') }}" alt="php">
-                <img src="{{ asset('storage/images/kisspng-web-development-laravel-web-framework-software-fra-1-5abaf3df944935.5441551415222015676074.PNG') }}"
+                <img src="{{ asset('storage/css.png') }}" alt="php">
+                <img src="{{ asset('storage/laravel.png') }}"
                     alt="php">
-                <img src="{{ asset('storage/images/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece9df699.271102961522446030647.PNG') }}"
+                <img src="{{ asset('storage/javascript.png') }}"
                     alt="php">
-                <img src="{{ asset('storage/images/kisspng-jquery-octos-global-javascript-library-document-ob-hit-health-co-نقطه-چین-5b663ce777cf01.0749422515334269194908.PNG') }}"
+                <img src="{{ asset('storage/jquery.png') }}"
                     alt="jquery">
-                <img src="{{ asset('storage/images/kisspng-java-programming-programming-language-computer-pro-5ada6652a40c24.352582881524262482672.PNG') }}"
+                <img src="{{ asset('storage/java.png') }}"
                     alt="jquery">
+                    <img src="{{ asset('storage/sql.png') }}"
+                    alt="jquery">
+
             </div>
         </div>
         <div class="chart-container">
