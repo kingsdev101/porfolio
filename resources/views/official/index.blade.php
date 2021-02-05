@@ -89,7 +89,7 @@
                             <span>BACK-END</span>
                         </div>
                         <div class="sevice-cload-image-wrapper">
-                            <img src="{{ asset('storage/clipart402381.PNG') }}" alt="laptop"
+                            <img src="{{ asset('storage/clipart402381.png') }}" alt="laptop"
                                 class="service-image laptop">
                         </div>
                     </div>
@@ -118,7 +118,7 @@
         <div class="img-section-wrapper">
             <div class="language-images">
                 <img src="https://www.mediafire.com/view/nailhru34gkab82/IMG20201229155251.JPG" alt="php">
-                <img src="{{ asset('storage/images/html.png') }}" alt="php">
+                <img src="{{ asset('storage/html.png') }}" alt="php">
                 <img src="{{ asset('storage/php.png') }}"
                     alt="php">
                 <img src="{{ asset('storage/css.png') }}" alt="php">
