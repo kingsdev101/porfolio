@@ -11,7 +11,7 @@
         <div class="rb2">
 
             <div class="basicinfo-wrapper">
-                <div><img src="{{asset('storage/images/brain.PNG')}}" alt="profiles">
+                <div><img src="{{asset('storage/IMG20201229155251.jpg')}}" alt="profiles">
                     <div class="basicinfo-name-wrapper">
                         <h4>Personal Information</h4>
                         <table>
