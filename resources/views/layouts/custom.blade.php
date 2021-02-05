@@ -21,8 +21,8 @@
 
 
     <!-- bartheme -->
-    <meta name="theme-color" content="#ffff">
-    <meta name="msapplication-navbutton-color" content="#ffff">
+    <meta name="theme-color" content="black">
+    <meta name="msapplication-navbutton-color" content="black">
 
     <!-- chart -->
     <script src="{{ asset('js/Chart.min.js') }}"></script>
