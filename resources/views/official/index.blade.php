@@ -117,22 +117,19 @@
         </div>
         <div class="img-section-wrapper">
             <div class="language-images">
-              
+                
                 <img src="{{ asset('storage/html.png') }}" alt="php">
                 <img src="{{ asset('storage/php.png') }}"
                     alt="php">
-                <img src="{{ asset('storage/css.png') }}" alt="php">
-                <img src="{{ asset('storage/laravel.png') }}"
+                <img src="{{ asset('storage/images/css.png') }}" alt="php">
+                <img src="{{ asset('storage/images/kisspng-web-development-laravel-web-framework-software-fra-1-5abaf3df944935.5441551415222015676074.PNG') }}"
                     alt="php">
-                <img src="{{ asset('storage/javascript.png') }}"
+                <img src="{{ asset('storage/images/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece9df699.271102961522446030647.PNG') }}"
                     alt="php">
-                <img src="{{ asset('storage/jquery.png') }}"
+                <img src="{{ asset('storage/images/kisspng-jquery-octos-global-javascript-library-document-ob-hit-health-co-نقطه-چین-5b663ce777cf01.0749422515334269194908.PNG') }}"
                     alt="jquery">
-                <img src="{{ asset('storage/java.png') }}"
+                <img src="{{ asset('storage/images/kisspng-java-programming-programming-language-computer-pro-5ada6652a40c24.352582881524262482672.PNG') }}"
                     alt="jquery">
-                    <img src="{{ asset('storage/sql.png') }}"
-                    alt="jquery">
-
             </div>
         </div>
         <div class="chart-container">
@@ -150,7 +147,7 @@
         </div>
     </div>
     <div class="section3-image-wrapper">
-        <img src="{{ asset('storage/busy.png')}}"
+        <img src="{{ asset('storage/images/kisspng-programmer-computer-programming-laptop-professiona-architectural-engineer-vector-material-5ad9edb20c2c80.8903493415242316020499.PNG')}}"
             alt="student programm">
     </div>
     <div class="see-all-wrapper"><a href="{{route('projects')}}">SEE ALL</a></div>
