@@ -117,7 +117,7 @@
         </div>
         <div class="img-section-wrapper">
             <div class="language-images">
-                <img src="https://www.mediafire.com/view/nailhru34gkab82/IMG20201229155251.JPG" alt="php">
+              
                 <img src="{{ asset('storage/html.png') }}" alt="php">
                 <img src="{{ asset('storage/php.png') }}"
                     alt="php">
@@ -150,7 +150,7 @@
         </div>
     </div>
     <div class="section3-image-wrapper">
-        <img src="{{ asset('storage/images/kisspng-programmer-computer-programming-laptop-professiona-architectural-engineer-vector-material-5ad9edb20c2c80.8903493415242316020499.PNG')}}"
+        <img src="{{ asset('storage/busy.png')}}"
             alt="student programm">
     </div>
     <div class="see-all-wrapper"><a href="{{route('projects')}}">SEE ALL</a></div>
