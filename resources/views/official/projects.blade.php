@@ -24,9 +24,9 @@
  </div>
         
         @if ($projects->visitable == 1)
-        <a href="{{$projects->links}}"> Visit</a>
+        <a href="{{$projects->links}}"> Visit  <i class="fas fa-globe-asia"></i></a>
         @else
-        <a href="{{$projects->links}}"> Download</a>
+        <a href="{{$projects->links}}"> Download  <i class="fa fa-download"></i></a>
         @endif
  
 </div>
