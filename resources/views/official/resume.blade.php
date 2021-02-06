@@ -70,7 +70,7 @@
                             </tr>
                             <tr>
                                 <td><i class="fas fa-globe-asia"></i></td>
-                                <td><span>codingareaword</span></td>
+                                <td><span>https://kingsdev101.herokuapp.com</span></td>
                             </tr>
                         </table>
 
