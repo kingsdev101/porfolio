@@ -7,6 +7,7 @@
     <meta name="theme-color" content="black">
 	<meta name="msapplication-navbutton-color" content="black">
 
+    <script src="https://use.fontawesome.com/bf6c928093.js"></script>
     <script src="{{ asset('js/jquery-3.5.1.min.js') }} "></script>
 
     <!-- Fonts -->
@@ -14,7 +15,13 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link rel="stylesheet" href="{{asset('css/desktop-style.css')}}">
-    <link rel="stylesheet" href="{{asset('fontawesome/css/all.css')}}">
+    <!-- <link rel="stylesheet" href="{{asset('fontawesome/css/all.css')}}"> -->
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.13.0/css/all.css"
+      integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V"
+      crossorigin="anonymous"
+    />
     <link rel="stylesheet" href="{{asset('css/mobile-style.css')}}">
     <link rel="stylesheet" href="{{asset('css/resume-mobile.css')}}">
     <link rel="stylesheet" href="{{asset('css/resume-desktop.css')}}">
