@@ -87,9 +87,7 @@
 
                     <div class="resume-box">
                         <h3>About Me</h3>
-                        <p> I am a dependable individual and a self thought developer. Can handle multiple tasks
-                            on a daily basis. Able to think and find possible ways to solve problem . working well under
-                            pressure. Capable in coding design and backend development. I am honest , trustworthy and kind person.  </p>
+                        <p> I am a dependable, a self-thought developer. Can handle multiple tasks on a daily basis. Able to think and find possible ways to solve problem. Working well under pressure. Capable in coding design and backend development. I am honest, trustworthy person. </p>
                     </div>
                     <div class="resume-box">
                         <h3>What I Can Offer</h3>
