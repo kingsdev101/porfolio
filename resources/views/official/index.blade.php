@@ -94,7 +94,7 @@
                         </div>
                     </div>
                     <p class="bt">I primary use PHP and Mysql as back end language. I am familiar with other programming
-                        language like java, c# javascript , veu, react , I understand the concept of OOP so learning new
+                        language like java, c# javascript library , I understand the concept of OOP so learning new
                         programming language won't be a problem. </p>
                     <p class="bt">What Can I Offer</p>
 
