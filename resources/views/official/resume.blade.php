@@ -87,11 +87,9 @@
 
                     <div class="resume-box">
                         <h3>About Me</h3>
-                        <p> I am a dependable hardworking individual self thought developer. Can handle multiple tasks
+                        <p> I am a dependable individual and a self thought developer. Can handle multiple tasks
                             on a daily basis. Able to think and find possible ways to solve problem . working well under
-                            pressure. I am honest and trustworthy. Willing to learn new things and want to grow with
-                            your team. Capable in coding design and backend development. I want to take the opportunity
-                            working in your company and gain more experience.</p>
+                            pressure. Capable in coding design and backend development. I am honest , trustworthy and kind person.  </p>
                     </div>
                     <div class="resume-box">
                         <h3>What I Can Offer</h3>
@@ -117,7 +115,7 @@
                         </ul>
                         <p>
                             I Understand Object Oriented Programming and also familiar in different language such as
-                            Java, C#, few Js library like React.js and Vue.js</p>
+                            Java, C#, few js library</p>
                     </div>
 
 
