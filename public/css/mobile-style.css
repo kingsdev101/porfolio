@@ -27,6 +27,33 @@ body{
 
     overflow-y: hidden;
 }
+
+.seedico{
+    box-sizing: border-box;
+ 
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.seedico img{
+    height: 25px;
+    width: auto;
+ 
+}
+
+.seedico span{
+ 
+    display: inline-block;
+    font-size: 13px;
+
+    padding: 5px 0px 0px 0px;
+    
+    display: inline-block;
+    color:  #ffff;
+ 
+
+}
 @media (max-width: 800px) {
     * {
         box-sizing: border-box;
@@ -50,10 +77,14 @@ body{
     }
 
     .seedico span{
-        padding: 5px;
-        word-spacing: 0px;
         display: inline-block;
-        color: #fefefe;
+        font-size: 13px;
+
+        padding: 5px 0px 0px 0px;
+        
+        display: inline-block;
+        color:  #ffff;
+ 
 
     }
 
@@ -426,7 +457,8 @@ body{
     }
 
     .section2 ul li {
-        color: #aaa;
+        color: #fed330;
+        
     }
 
     .section2 .laptop,
@@ -458,7 +490,7 @@ body{
         position: absolute;
         transform: translate(-5px,20px);
         max-width: 250px;
-        color: #fefefe;
+        color: #ffff;
     }
 
     .box1 {
@@ -495,7 +527,7 @@ body{
         box-sizing: border-box;
         z-index: 0;
 
-        padding: 10px;
+        padding: 5px 8px;        
     }
 
     .service-wrapper {
@@ -510,7 +542,7 @@ body{
 
     .service-content p {
         font-family: "Source Sans Pro";
-        color: #fefefe;
+        color: #eee;
  
     }
     .service-back-end-wrapper p {

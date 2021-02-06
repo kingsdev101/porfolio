@@ -34,7 +34,7 @@
 
     <!-- chart -->
     <script src="{{ asset('js/Chart.min.js') }}"></script>
-    <title>@yield('title', 'KingsSite')</title>
+    <title>@yield('title', 'KingsDev')</title>
 
 
 
@@ -58,7 +58,8 @@
         <div class="menu-wrapper" id="menu-wrapper">
 
             <div class="seedico" style="color:#ffff;font-family:'helvetica';text-tr " >
-                    <i class="fa fa-dragon" style="color: #f75901; font-size:28px"></i> <span>KingsDev</span>    
+            <img src="{{ asset('storage/crown.png') }}" alt="crown">
+<span> Orbs </span>    
             </div>
             <div class="line-wrapper" id="line-wrapper">
                 <div class="line ln1"></div>
